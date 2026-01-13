@@ -1,35 +1,56 @@
-# Hi 👋, I'm Mohsin Khan
+<div align="center">
 
-### An experienced Typescript developer
+# Hi there, I'm Mohsin Khan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=donatedsalt&label=Profile views&color=0e75b6&style=flat" alt="donatedsalt" /> </p>
+### Full Stack Developer | DevOps Enthusiast | .NET & Next.js
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donatedsalt" alt="donatedsalt" /></a> </p>
-
-- 🔭 I'm currently working on **MERN Stack and .NET**
-
-- 🌱 I'm currently learning **different software design patterns and new languages**
-
-- 👯 I'm looking to collaborate on **open source projects**
-
-- 💬 Ask me about **anything you want**
-
-- 📫 How to reach me **mmohsinkhan3685@gmail.com**
-
-- ⚡ Fun fact **I use Arch BTW**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/donatedsalt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="donatedsalt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/donatedsalt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/donatedsalt/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=donatedsalt&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="donatedsalt" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+<p align="center">
+ 🔭 Currently working on a <b>School Management System</b> (ASP.NET Core) <br />
+ 🌱 Learning <b>Software Design Patterns</b> & Advanced <b>DevOps</b> <br />
+ ⚡ Fun fact: <b>I use Arch BTW</b> 🐧
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=donatedsalt&show_icons=true&locale=en&layout=compact" alt="donatedsalt" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donatedsalt&show_icons=true&locale=en" alt="donatedsalt" /></p>
+<h3>🛠️ Technologies & Tools</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=donatedsalt&" alt="donatedsalt" /></p>
+| **Domain** | **Stack** |
+| :--- | :--- |
+| **Frontend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css,flutter,dart" /></a> |
+| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dotnet,cs,python,bun,nodejs,express" /></a> |
+| **Database** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,mysql,mssql" /></a> |
+| **DevOps & OS** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,linux,git,bash,arch" /></a> |
+| **IDEs & Editors** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=neovim,vscode,visualstudio,rider" /></a> |
 
+<br/>
+
+<h3>📊 GitHub Stats</h3>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=donatedsalt&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=donatedsalt&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=donatedsalt&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+<br/>
+
+<h3>📫 Connect with me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/donatedsalt/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mmohsinkhan3685@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discord.com/users/603649445732810756" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+</div>
