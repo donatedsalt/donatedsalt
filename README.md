@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mohsin Khan 👋
 
-### Full Stack Developer | DevOps Enthusiast | .NET & Next.js
+### Full Stack Developer | Linux and OSS Enthusiast | .NET & Next.js
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=donatedsalt&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="donatedsalt" />
